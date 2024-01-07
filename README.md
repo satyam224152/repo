@@ -1,2 +1,2 @@
-# repo
-this is the public repo
+# Linux 
+Learn Linux with us 
